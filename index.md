@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Thunder Rock Radio
 ---
+
+<audio controls>
+  <source src="https://listen.011fm.com/2650_192.mp3" type="audio/mpeg">
+</audio>
