@@ -16,9 +16,9 @@
 title: Thunder Rock Radio
 email: thethirstycoder@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Parkland's only rock!
-#baseurl: ""
-#url: ""
+  The Parkland's only rock station!
+#baseurl: "/"
+#url: "http://127.0.0.1:4000"
 baseurl: "/my-jekyll-docker-website" # the subpath of your site, e.g. /blog
 url: "https://thethirstycoder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
