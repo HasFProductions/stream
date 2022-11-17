@@ -4,5 +4,5 @@ title: Thunder Rock Radio
 ---
 
 <audio controls>
-  <source src="https://listen.011fm.com/2650_192.mp3" type="audio/mpeg">
+  <source src="http://206.45.155.224/thunder.mp3" type="audio/mpeg">
 </audio>
