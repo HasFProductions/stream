@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Parkland's only rock station!
 #baseurl: "/"
 #url: "http://127.0.0.1:4000"
-baseurl: "/stream" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.thunderrock.ca" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 #github_username:
