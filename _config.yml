@@ -27,13 +27,13 @@ url: "https://www.thunderrock.ca" # the base hostname & protocol for your site, 
 500px_url:
 facebook_url: https://facebook.com/radio.thunderrock
 github_url:
-gitlab_url: 
+gitlab_url:
 googleplus_url: 
-instagram_url: https://www.instagram.com/towelieonair
-linkedin_url: https://www.linkedin.com/in/thunderrockradio
+instagram_url: https://www.instagram.com/thndrrock
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/thunderrockradio
+twitter_url:
 
 # Build settings
 markdown: kramdown
