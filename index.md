@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: home
 title: Thunder Rock Radio
 ---
 
-<h1>Live Stream Coming Soon</h1>
+### Live Stream Coming Soon
 
 <audio controls>
   <source src="https://onair.thunderrock.ca:8443/thunder.mp3" type="audio/mpeg">
