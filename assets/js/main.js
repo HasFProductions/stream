@@ -39,13 +39,13 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'assets/images/bg01.jpg': 'center',
-							'assets/images/bg02.jpg': 'center',
-							'assets/images/bg03.jpg': 'center',
-							'assets/images/bg04.jpg': 'center',
-							'assets/images/bg05.jpg': 'center',
-							'assets/images/bg06.jpg': 'center',
-							'assets/images/bg07.jpg': 'center',
+							'assets/images/home/slideshow/bg01.jpg': 'center',
+							'assets/images/home/slideshow/bg02.jpg': 'center',
+							'assets/images/home/slideshow/bg03.jpg': 'center',
+							'assets/images/home/slideshow/bg04.jpg': 'center',
+							'assets/images/home/slideshow/bg05.jpg': 'center',
+							'assets/images/home/slideshow/bg06.jpg': 'center',
+							'assets/images/home/slideshow/bg07.jpg': 'center',
 						},
 
 					// Delay.
