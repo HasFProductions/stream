@@ -1117,7 +1117,7 @@
 		}
 
 		#footer .copyright {
-			font-size: 0.8em;
+			font-size: 0.7em;
 			list-style: none;
 			padding: 0;
 		}
@@ -1190,6 +1190,14 @@
 
 .logo {
 	width: 100%;
-	max-width: 548px;
+	max-width: 620px;
 	height: auto;
+}
+
+.coming-soon {
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+	margin-top: 50px;
+	margin-left: 110px;
 }
