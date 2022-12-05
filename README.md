@@ -1,2 +1,5 @@
-# my-jekyll-docker-website
-Testing out Jekyll development using Docker.
+# Thunder Rock Radio
+
+## The Parkland's Only Rock!
+
+The offical website of Thunder Rock Radio.

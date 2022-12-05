@@ -7,7 +7,6 @@ title: Thunder Rock Radio
 	<img class="logo" src="{{ 'assets/images/thunder-rock-logo-and-tag.png' | relative_url }}" />
 </header>
 
-
 <p>
 <img class="coming-soon" src="{{ 'assets/images/home/live-stream-coming-soon.png' | relative_url }}" />
 </p>
