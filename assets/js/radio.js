@@ -2,8 +2,8 @@ window.onload = function() {
     if(window['stream-button'])
     {
         var stream = new Howl({
-            //src: ['https://onair.thunderrock.ca:8443/thunder.mp3'],
-            src: ['https://rfcmedia.streamguys1.com/80hits.mp3'],
+            src: ['https://onair.thunderrock.ca:8443/thunder.mp3'],
+            //src: ['https://rfcmedia.streamguys1.com/80hits.mp3'],
             html5: true,
             autoUnlock: false,
             onloaderror: function() {
