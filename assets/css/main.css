@@ -1200,3 +1200,16 @@
 	height: auto;
 	margin-top: 50px;
 }
+
+#data-disclaimer {
+	font-size: .7em;
+}
+
+#socan-link {
+	text-decoration: none;
+	border: none;
+}
+
+#socan-logo {
+	opacity: 0.3;
+}
