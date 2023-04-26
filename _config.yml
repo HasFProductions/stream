@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Thunder Rock Radio
+title: HasF Productions
 email: thethirstycoder@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Parkland's Only Rock!
@@ -27,7 +27,7 @@ facebook_url: https://facebook.com/radio.thunderrock
 github_url:
 gitlab_url:
 googleplus_url: 
-instagram_url: https://www.instagram.com/thndrrock
+instagram_url: https://www.instagram.com/HasFProd
 linkedin_url:
 pinterest_url:
 slack_url:
