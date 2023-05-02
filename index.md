@@ -1,10 +1,10 @@
 ---
 layout: home
-title: HasF Productions
+title: Thunder Rock Radio
 ---
 
 <header id="header">
-	<!--<img class="logo" src="{{ 'assets/images/thunder-rock-logo-and-tag.png' | relative_url }}" />-->
+	<img class="logo" src="{{ 'assets/images/thunder-rock-logo-and-tag.png' | relative_url }}" />
 </header>
 
 
